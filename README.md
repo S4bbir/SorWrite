@@ -1,6 +1,6 @@
 ## API Integration
 
-The application integrates with the Gemini API using the `gemini-2.5-flash-lite` model. API key is configured in `src/services/aiService.ts`.
+The application integrates with the Gemini API using the model. API key is configured in
 
 ## Dependencies
 
@@ -18,5 +18,6 @@ The application integrates with the Gemini API using the `gemini-2.5-flash-lite`
 - Turbopack for fast development
 - ESLint for code quality
 - TypeScript for type safety
+
 
 
