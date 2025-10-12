@@ -1,4 +1,4 @@
-# Sorwrite - AI Research Assistant SaaS
+# Simplicity - AI Research Assistant SaaS
 
 An AI-powered SaaS platform for researchers to enhance their research workflow with AI tools.
 
